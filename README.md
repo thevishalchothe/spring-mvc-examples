@@ -27,3 +27,14 @@
         - A service implementation that stores users in a `HashMap`  
         - Feedback messages for successful and failed login attempts  
     - A great stepping stone before integrating JDBC or databases in a Spring MVC application.
+
+- **user-credentials-mvc-db**  
+    - `user-credentials-mvc-db` extends the `user-credential-mvc` example with real JDBC-based persistence using MySQL.  
+    - It demonstrates full Spring MVC architecture using annotation-based configuration, DataSource for database access, and JSP views.  
+    - Features include:  
+        - User registration with validation and data storage in MySQL  
+        - Login using username and password with session handling  
+        - Spring `@Controller`, `@Service`, and `@Repository` layers  
+        - JDBC integration using `DriverManagerDataSource`  
+        - Clean separation of concerns and real-world MVC flow  
+    - A great stepping stone for building more advanced Spring MVC applications with full database integration.
