@@ -38,3 +38,40 @@
         - JDBC integration using `DriverManagerDataSource`  
         - Clean separation of concerns and real-world MVC flow  
     - A great stepping stone for building more advanced Spring MVC applications with full database integration.
+
+---
+
+### **Technologies Used** 💻🔧
+
+#### **Backend Technologies**
+- **Java (JDK 21)** ☕️: Core programming language for the application logic.
+- **Spring Framework (Core)** 🌱: For IoC, DI, and managing beans using annotation-based configuration.
+- **Spring MVC** 🖥️: For handling HTTP requests and building web applications using the MVC pattern.
+- **JDBC** 📡: To connect and interact with the MySQL database.
+- **MySQL** 🗄️: Stores data for books, users, admins, and borrow records.
+- **Maven** 🧰: For dependency management and project building.
+
+---
+
+### **Prerequisites** 🛠️
+
+Before you begin, make sure the following are installed:
+
+- **Java JDK 21 or later**: Download from [Oracle](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) or [OpenJDK](https://jdk.java.net/21/).
+- **IntelliJ IDEA for Enterprise Java**: Download from [IntelliJ IDEA Download](https://www.jetbrains.com/idea/download/)
+- **MySQL Server**: Install from [MySQL Community](https://dev.mysql.com/downloads/installer/).
+- **Maven**: [Install Maven](https://maven.apache.org/install.html) if not bundled with your IDE.
+
+---
+
+## **Installation** 🛠️
+
+### **Clone the Repository**
+
+```bash
+git clone https://github.com/thevishalchothe/spring-core-examples.git
+
+cd spring-core-examples
+   ```
+
+---
