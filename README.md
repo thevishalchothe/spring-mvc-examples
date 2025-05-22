@@ -1,30 +1,19 @@
 # spring-mvc-examples ⚙️🖼️
 
-The `spring-mvc-examples` demonstrating setup with traditional controllers, spring configuration, and JSP views for handling web requests and rendering responses.
+This `spring-mvc-examples` repository contains projects that demonstrate the use of Spring MVC with traditional XML or Java-based configuration, controller handling, and JSP-based view rendering. Each project focuses on specific web application features using Spring MVC architecture.
 
 ---
 
-## Project Example List 📂
+## Project Example List with Links 🔗📂
 
-- hello-spring-mvc  
-- greeting-mvc-app  
-- user-credential-mvc  
-- user-credentials-mvc  
-- user-credentials-mvc-db  
-- calculator-mvc-project  
-
----
-
-## Project Example Links 🔗
-
-- [hello-spring-mvc](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/hello-spring-mvc)
-- [greeting-mvc-app](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/greeting-mvc-app)
-- [user-credential-mvc](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/user-credential-mvc)
-- [user-credentials-mvc](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/user-credentials-mvc)
-- [user-credentials-mvc-db](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/user-credentials-mvc-db)
-- [calculator-mvc-project](https://github.com/thevishalchothe/spring-mvc-examples/tree/87fbaf692bba1b17dd8085cd87117ea8db521219/calculator-mvc-project)
+- **hello-spring-mvc** 🔗 [hello-spring-mvc example link](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/hello-spring-mvc)
+- **greeting-mvc-app** 🔗 [greeting-mvc-app example link](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/greeting-mvc-app)
+- **user-credentials-mvc** 🔗 [user-credentials-mvc example link](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/user-credentials-mvc)
+- **user-credentials-mvc-db** 🔗 [user-credentials-mvc-db example link](https://github.com/thevishalchothe/spring-mvc-examples/tree/4baab3f371655c6a1d686a9d2fcc8d81553f50b3/user-credentials-mvc-db)
+- **calculator-mvc-project** 🔗 [calculator-mvc-project example link](https://github.com/thevishalchothe/spring-mvc-examples/tree/87fbaf692bba1b17dd8085cd87117ea8db521219/calculator-mvc-project)
 
 ---
+
 
 ### **Technologies Used** 💻🔧
 
